@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/codevortex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/codevortex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carolina-vit%c3%b3ria-77b652226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-vit%c3%b3ria-77b652226/" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/codevortex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/codevortex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/carolina-vitória-77b652226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carolina-vitória-77b652226" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
