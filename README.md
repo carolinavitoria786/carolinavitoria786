@@ -44,7 +44,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinavitoria786&show_icons=true&theme=dracula&title_color=f24194&text_color=69c0dd&locale=en&layout=compact" alt="carolinavitoria786" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinavitoria786&show_icons=true&theme=dracula&title_color=f24194&text_color=69c0dd&bg_color=171626&locale=en" alt="carolinavitoria786" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carolinavitoria786&show_icons=true&theme=dracula&title_color=f24194&text_color=69c0dd&bg_color=171626&locale=en" alt="carolinavitoria786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinavitoria786&theme=dark" alt="carolinavitoria786" /></p>
 
