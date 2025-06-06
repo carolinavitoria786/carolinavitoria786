@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carolina Vitória</h1>
 <h3 align="center">A Computer Science student from Brazil</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **carolinavitoria786@gmail.com**
 
