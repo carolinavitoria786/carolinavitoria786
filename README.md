@@ -38,4 +38,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 <br>
+
 [![carolinavitoria786](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavitoria786&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
