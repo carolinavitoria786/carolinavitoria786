@@ -38,5 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 <br>
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolinavitoria786/carolinavitoria786/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolinavitoria786/carolinavitoria786/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carolinavitoria786/carolinavitoria786/output/pacman-contribution-graph.svg">
+</picture>
 [![carolinavitoria786](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavitoria786&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
